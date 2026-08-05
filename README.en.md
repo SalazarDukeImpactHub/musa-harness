@@ -139,6 +139,41 @@ brand — including yours.
 </tr>
 </table>
 
+## 🖥️ The three artifacts, per brand
+
+The system delivers three views —**A1 Brand System · A2 Calendar + Metrics · A3
+Studio**— with a single brand-swappable design, re-themed for each brand:
+
+**🌿 Raíz Viva**
+
+<table>
+<tr>
+<td width="33%"><img src="assets/raiz-a1.png" alt="A1 Brand System"/></td>
+<td width="33%"><img src="assets/raiz-a2.png" alt="A2 Metrics"/></td>
+<td width="33%"><img src="assets/raiz-a3.png" alt="A3 Studio"/></td>
+</tr>
+<tr>
+<td align="center"><sub>A1 · Brand System</sub></td>
+<td align="center"><sub>A2 · Calendar + Metrics</sub></td>
+<td align="center"><sub>A3 · Studio</sub></td>
+</tr>
+</table>
+
+**⚡ WOX**
+
+<table>
+<tr>
+<td width="33%"><img src="assets/wox-a1.png" alt="A1 Brand System"/></td>
+<td width="33%"><img src="assets/wox-a2.png" alt="A2 Calendar"/></td>
+<td width="33%"><img src="assets/wox-a3.png" alt="A3 Studio with carousel"/></td>
+</tr>
+<tr>
+<td align="center"><sub>A1 · Brand System</sub></td>
+<td align="center"><sub>A2 · Calendar</sub></td>
+<td align="center"><sub>A3 · Studio (carousel)</sub></td>
+</tr>
+</table>
+
 ## How it's adopted
 
 **Advisory with system handoff.** Guidance to implement and refine it with your team:

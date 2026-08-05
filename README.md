@@ -141,6 +141,41 @@ cualquier marca — incluida la tuya.
 </tr>
 </table>
 
+## 🖥️ Los tres artefactos, en cada marca
+
+El sistema entrega tres vistas —**A1 Sistema de Marca · A2 Calendario + Métricas · A3
+Estudio**— con un mismo diseño brand-swappable, re-tematizado para cada marca:
+
+**🌿 Raíz Viva**
+
+<table>
+<tr>
+<td width="33%"><img src="assets/raiz-a1.png" alt="A1 Sistema de Marca"/></td>
+<td width="33%"><img src="assets/raiz-a2.png" alt="A2 Métricas"/></td>
+<td width="33%"><img src="assets/raiz-a3.png" alt="A3 Estudio"/></td>
+</tr>
+<tr>
+<td align="center"><sub>A1 · Sistema de Marca</sub></td>
+<td align="center"><sub>A2 · Calendario + Métricas</sub></td>
+<td align="center"><sub>A3 · Estudio</sub></td>
+</tr>
+</table>
+
+**⚡ WOX**
+
+<table>
+<tr>
+<td width="33%"><img src="assets/wox-a1.png" alt="A1 Sistema de Marca"/></td>
+<td width="33%"><img src="assets/wox-a2.png" alt="A2 Calendario"/></td>
+<td width="33%"><img src="assets/wox-a3.png" alt="A3 Estudio con carrusel"/></td>
+</tr>
+<tr>
+<td align="center"><sub>A1 · Sistema de Marca</sub></td>
+<td align="center"><sub>A2 · Calendario</sub></td>
+<td align="center"><sub>A3 · Estudio (carrusel)</sub></td>
+</tr>
+</table>
+
 ## Cómo se adopta
 
 **Asesoría con entrega del sistema.** Acompañamiento para implantarlo y refinarlo con tu
