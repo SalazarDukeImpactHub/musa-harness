@@ -11,7 +11,7 @@
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-0f3460?style=for-the-badge)
 ![Harness Engineering](https://img.shields.io/badge/Harness%20Engineering-agent%20architecture-8A2BE2?style=for-the-badge)
 ![Docs](https://img.shields.io/badge/docs-ES%20%2B%20EN-16a34a?style=for-the-badge)
-![Made in Colombia](https://img.shields.io/badge/Made%20in-Colombia-FCD116?style=for-the-badge)
+![Made in Medellín, Colombia](https://img.shields.io/badge/Made%20in-Medell%C3%ADn%2C%20Colombia-FCD116?style=for-the-badge)
 
 [🇪🇸 Español](README.md) · **🇺🇸 English**
 

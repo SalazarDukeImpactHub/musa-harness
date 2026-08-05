@@ -11,7 +11,7 @@
 ![Licencia](https://img.shields.io/badge/licencia-CC%20BY--NC--SA%204.0-0f3460?style=for-the-badge)
 ![Harness Engineering](https://img.shields.io/badge/Harness%20Engineering-arquitectura%20de%20agentes-8A2BE2?style=for-the-badge)
 ![Docs](https://img.shields.io/badge/docs-ES%20%2B%20EN-16a34a?style=for-the-badge)
-![Hecho en Colombia](https://img.shields.io/badge/Hecho%20en-Colombia-FCD116?style=for-the-badge)
+![Hecho en Medellín, Colombia](https://img.shields.io/badge/Hecho%20en-Medell%C3%ADn%2C%20Colombia-FCD116?style=for-the-badge)
 
 **🇪🇸 Español** · [🇺🇸 English](README.en.md)
 
