@@ -1,12 +1,27 @@
-# 🎨 Musa — A content factory with your brand's voice
+<div align="center">
+
+# 🎨 Musa
+
+### A content factory with your brand's voice
+
+*From the little you have to a system that creates, learns, and keeps your voice.*
+
+<br/>
+
+![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-0f3460?style=for-the-badge)
+![Harness Engineering](https://img.shields.io/badge/Harness%20Engineering-agent%20architecture-8A2BE2?style=for-the-badge)
+![Docs](https://img.shields.io/badge/docs-ES%20%2B%20EN-16a34a?style=for-the-badge)
+![Made in Colombia](https://img.shields.io/badge/Made%20in-Colombia-FCD116?style=for-the-badge)
 
 [🇪🇸 Español](README.md) · **🇺🇸 English**
+
+</div>
+
+---
 
 > A system that takes the little a brand already has —a half-finished guide, a few loose
 > notes— and turns it into a **complete identity** and **channel-ready content**, without
 > losing its voice. Not just another tool: it's **agent engineering** applied to marketing.
-
----
 
 ## The problem
 
