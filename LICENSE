@@ -1,0 +1,50 @@
+Copyright (c) 2026 Jennifer Salazar Duke
+
+=======================================================================
+Documentación y contenido de este repositorio
+=======================================================================
+
+Esta obra está licenciada bajo
+Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional
+(CC BY-NC-SA 4.0).
+
+Sos libre de:
+  - Compartir: copiar y redistribuir el material en cualquier medio o formato.
+  - Adaptar: remezclar, transformar y construir a partir del material.
+
+Bajo los siguientes términos:
+  - Atribución — Debés dar el crédito apropiado a Jennifer Salazar Duke,
+    proporcionar un enlace a la licencia e indicar si se hicieron cambios.
+  - NoComercial — No podés utilizar el material con fines comerciales.
+  - CompartirIgual — Si remezclás o transformás el material, debés
+    distribuir tus contribuciones bajo la misma licencia que el original.
+
+Texto legal completo:
+  https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+Resumen legible:
+  https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es
+
+=======================================================================
+Nota sobre el método propietario
+=======================================================================
+
+Los frameworks de branding y la implementación detallada (los prompts
+internos de cada agente y el método de destilación de marca) NO están
+incluidos en este repositorio y NO se licencian bajo CC BY-NC-SA. Son
+propiedad de la autora y se entregan mediante asesoría. Esta licencia
+cubre únicamente la documentación de arquitectura publicada aquí.
+
+=======================================================================
+English summary
+=======================================================================
+
+The documentation in this repository is licensed under CC BY-NC-SA 4.0:
+you may share and adapt it for non-commercial purposes, with attribution
+to Jennifer Salazar Duke, under the same license.
+
+The proprietary branding frameworks and internal implementation are NOT
+included here and are NOT covered by this license. They belong to the
+author and are delivered through advisory.
+
+Full legal text:
+  https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
