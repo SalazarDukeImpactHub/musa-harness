@@ -121,6 +121,26 @@ El mismo sistema, con marcas en extremos opuestos, manteniendo la unidad:
 Cada una con **su** voz y **su** estética, sin mezclarse. Prueba de que sirve para
 cualquier marca — incluida la tuya.
 
+**🌿 Raíz Viva** — cálida, editorial, fotografía de manos y proceso:
+
+<table>
+<tr>
+<td width="33%"><img src="assets/raiz-viva-1.png" alt="Raíz Viva"/></td>
+<td width="33%"><img src="assets/raiz-viva-2.png" alt="Raíz Viva"/></td>
+<td width="33%"><img src="assets/raiz-viva-3.png" alt="Raíz Viva"/></td>
+</tr>
+</table>
+
+**⚡ WOX** — tech, póster oscuro con glow y carrusel:
+
+<table>
+<tr>
+<td width="33%"><img src="assets/wox-1.png" alt="WOX"/></td>
+<td width="33%"><img src="assets/wox-2.png" alt="WOX"/></td>
+<td width="33%"><img src="assets/wox-3.png" alt="WOX · carrusel"/></td>
+</tr>
+</table>
+
 ## Cómo se adopta
 
 **Asesoría con entrega del sistema.** Acompañamiento para implantarlo y refinarlo con tu
